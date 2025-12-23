@@ -1,0 +1,1 @@
+㊂7️⃣️🔖️🌐️ The official source repository for the website of the V7Tags project, V7Tags (a numeronym for VerboseTags) is an experimental verbose tagging system for a semantic web, that contains a tag for every single aspect of the media it represents. 
